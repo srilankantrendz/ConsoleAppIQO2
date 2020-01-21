@@ -22,7 +22,7 @@ namespace ConsoleAppIQO2
             int investment2 = 3;
             int investment3 = 6;
 
-            int investment1A = 3;   // 2.61 Profit
+            int investment1A = 3;   // 2.61 Profit Wow
             int investment2A = 6;   // 2.22 Profit
             int investment3A= investment1A;
 
