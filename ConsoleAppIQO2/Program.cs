@@ -142,5 +142,11 @@ namespace ConsoleAppIQO2
             var result = random.Next() > (Int32.MaxValue / 2);
             return result;
         }
+        // adding more comments +++
+        private static bool TestMethodDeleteLater(Random random)
+        {
+            var result = false;
+            return result;
+        }
     }
 }
