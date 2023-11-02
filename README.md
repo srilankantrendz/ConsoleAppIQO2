@@ -5,4 +5,6 @@ IQO : RnD 02 -fork from orig
 * To test some Trading logic
 * Old version
 * ok - updated orig repo -- v1.2
+* ok - updated orig repo -- v1.3
+* ok - updated orig repo -- v1.4
 
