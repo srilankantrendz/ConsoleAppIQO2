@@ -146,5 +146,12 @@ namespace ConsoleAppIQO2
             var result = false;
             return result;
         }
+
+        // adding a new fake method to test fork
+        private static bool TestMethodDeleteLater2(Random random)
+        {
+            var result = false;
+            return result;
+        }
     }
 }
