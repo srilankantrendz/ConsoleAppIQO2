@@ -75,8 +75,6 @@ namespace ConsoleAppIQO2
             Console.WriteLine("============== Start Other Plan for Same =======");
             Console.ReadLine();
             //////
-            ///
-            ////////////////
             lossCount = 0; winCount = 0;
             baseVal = 72;
             investment = investment1A;
