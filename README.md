@@ -7,4 +7,5 @@ IQO : RnD 02 -fork from orig
 * ok - updated orig repo -- v1.2
 * ok - updated orig repo -- v1.3
 * ok - updated orig repo -- v1.4
+* ok - updated orig repo -- v1.5
 
